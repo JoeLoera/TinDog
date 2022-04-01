@@ -1,2 +1,1 @@
-# TinDog
-Mock Tinder, but for dogs
+TinDog Starting Files
